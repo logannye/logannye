@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @logannye
-- 👀 I’m interested in orthopaedic surgery, machine learning, & biotechnology.
-- 🌱 I’m currently learning python and how to create technology for healthcare.
+- 👀 I’m interested in building artificial intelligence that addresses massive challenges in medicine & healthcare.
+- 🌱 I’m a physician researcher at Harvard Medical School in Boston, where I build deep learning algorithms for medical imaging and cancer diagnostics.
 
 <!---
 logannye/logannye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
