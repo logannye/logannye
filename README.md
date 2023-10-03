@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @logannye
-- 🌱 I'm a physician at Carnegie Mellon University's School of Computer Science. Prior to CMU, I was an AI researcher at Harvard Medical School, where I built deep learning models for diagnostic medical imaging and histopathology.
+-  Hi, I’m @logannye
+ I'm a physician at Carnegie Mellon University's School of Computer Science. Prior to CMU, I was an AI researcher at Harvard Medical School, where I built deep learning models for diagnostic medical imaging and histopathology.
 
 I'm interested in exploring ways to use artificial intelligence and computational technologies to advance human heatlh.
 
