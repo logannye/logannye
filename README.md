@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @logannye
-- 🌱 I’m a physician at Harvard Medical School in Boston, where I build deep learning algorithms for surgery and cancer care.
+- 🌱 I'm a physician at Carnegie Mellon University's School of Computer Science. Prior to CMU, I was an AI researcher at Harvard Medical School, where I built deep learning models for diagnostic medical imaging and histopathology.
 
-I'm interested in exploring ways to use artificial intelligence, quantum technology, and other emerging capabilites to advance human heatlh.
+I'm interested in exploring ways to use artificial intelligence and computational technologies to advance human heatlh.
 
 <!---
 logannye/logannye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
