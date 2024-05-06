@@ -1,7 +1,5 @@
 -  Hi, I’m @logannye
- I'm a physician and computer scientist at Carnegie Mellon University's School of Computer Science. Before CMU I was an AI researcher at Harvard Medical School, where I built deep learning models for diagnostic medical imaging and histopathology.
-
-I'm interested in using computational paradigms to solve disease.
+ I'm a physician and computer scientist at Carnegie Mellon University's School of Computer Science. I'm interested in machine intelligence inspired by the natural world around us and in solving disease.
 
 <!---
 logannye/logannye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
